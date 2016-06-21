@@ -1,0 +1,8 @@
+diretorios:
+ workDir : /home/milton/MiltonNote/EstatisticaMestrado/2014/9-Dissertacao/ImplementacoesABC_Defesa/
+ pdfDir : /home/milton/MiltonNote/EstatisticaMestrado/2014/9-Dissertacao/ImplementacoesABC_Defesa/PDF/
+ DadosDir : /home/milton/MiltonNote/EstatisticaMestrado/2014/9-Dissertacao/Visualizacao/DadosVisualizaExp
+ DadosDir1000 : /home/milton/MiltonNote/EstatisticaMestrado/2014/9-Dissertacao/ImplementacoesABC_Defesa/Visualizacao/DadosVisualizaExp1000
+oracle:
+ stringConexao : "jdbc:oracle:thin:dbdminfosas2/dbdminfosas2@150.164.10.165:1521/infosas"
+ arqJar : "C:/Oracle/client/usuario/product/12.1.0/client_1/jdbc/lib/ojdbc6.jar"

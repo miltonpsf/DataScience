@@ -10,7 +10,7 @@ library("RJDBC")
 library("ggplot2")
 library("PerformanceAnalytics")
 library(gridExtra)
-myDir<-"~/MiltonNote/DataScience/ImplementacoesABC_Defesa"
+myDir<- paste0(path.expand("~"),"/DataScience/ImplementacoesABC_Defesa")
 configFile <- paste(myDir, "config.yml", sep="/");
 config <- yaml.load_file(configFile)
 setwd(config$diretorios$workDir)
